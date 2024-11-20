@@ -3,8 +3,6 @@
 Les présents statuts définissent l'ensemble des règles qui régissent notre guilde. Ils ont pour objectif de garantir un environnement de jeu harmonieux,  organisé et équitable pour tous les membres.  Ce document clarifie le fonctionnement de notre guilde,  les droits et devoirs de chacun, et les valeurs que nous partageons. En les acceptant, chaque membre s'engage à les respecter et à contribuer à la vie de la guilde dans un esprit de camaraderie et de respect mutuel.
 
 > *Dans les vastes étendues de Throne and Liberty, là où l'aventure appelle et où les héros se lèvent, résonne l'Écho de Lyssa. Inspirés par la déesse de la dualité, nous sommes des guerriers, des mages et des aventuriers unis par la soif de conquêtes et la camaraderie. Que vous soyez un vétéran aguerri ou un novice intrépide, rejoignez nos rangs et laissez votre nom s'inscrire dans la légende\!*
->
-> *Marqués par le sceau de trois décennies, l'exploration est notre quête, la camaraderie notre étendard. Nous ne cherchons pas la gloire éphémère des classements, mais la satisfaction de conquérir ensemble les défis les plus ardus. Pour atteindre les sommets, la discipline est notre alliée, sans jamais entraver la liberté de chaque guerrier.*
 
 # Comportements proscrits et conséquences juridiques
 
@@ -106,6 +104,8 @@ Tout membre éligible qui n'aura pas manifesté son intention de participer au t
 Cette procédure de distribution a pour objectif de garantir une gestion équitable et transparente des objets de valeur au sein de la Guilde. Elle permet à chaque membre éligible de manifester son intérêt pour un objet de manière claire et explicite, tout en encourageant la participation active et l'implication de tous.
 
 # Appel aux armes
+
+Marqués par le sceau de trois décennies, l'exploration est notre quête, la camaraderie notre étendard. Nous ne cherchons pas la gloire éphémère des classements, mais la satisfaction de conquérir ensemble les défis les plus ardus. Pour atteindre les sommets, la discipline est notre alliée, sans jamais entraver la liberté de chaque guerrier.
 
 ## Ce que l'Écho de Lyssa offre:
 
