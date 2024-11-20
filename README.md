@@ -1,3 +1,1 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
-
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+This project is protected by the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/summary_berne.html) and released under the [ISC License](https://opensource.org/license/isc-license-txt) licence. Copyright protection lasts for the life of the author, [Discord @Meyverick](https://discord.com/users/374168762426982401), plus an additional 70 years.
