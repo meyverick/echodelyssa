@@ -1,6 +1,6 @@
 # Les Statuts de l’Écho de Lyssa
 
-Les présents statuts définissent l'ensemble des règles qui régissent notre guilde. Ils ont pour objectif de garantir un environnement de jeu harmonieux,  organisé et équitable pour tous les membres.  Ce document clarifie le fonctionnement de notre guilde,  les droits et devoirs de chacun, et les valeurs que nous partageons. En les acceptant, chaque membre s'engage à les respecter et à contribuer à la vie de la guilde dans un esprit de camaraderie et de respect mutuel.
+Les présents statuts définissent l'ensemble des règles qui régissent notre guilde. Ils ont pour objectif de garantir un environnement de jeu harmonieux, organisé et équitable pour tous les membres. Ce document clarifie le fonctionnement de notre guilde, les droits et devoirs de chacun, et les valeurs que nous partageons. En les acceptant, chaque membre s'engage à les respecter et à contribuer à la vie de la guilde dans un esprit de camaraderie et de respect mutuel.
 
 > *Dans les vastes étendues de Throne and Liberty, là où l'aventure appelle et où les héros se lèvent, résonne l'Écho de Lyssa. Inspirés par la déesse de la dualité, nous sommes des guerriers, des mages et des aventuriers unis par la soif de conquêtes et la camaraderie. Que vous soyez un vétéran aguerri ou un novice intrépide, rejoignez nos rangs et laissez votre nom s'inscrire dans la légende\!*
 
@@ -32,13 +32,13 @@ Afin d'assurer une coordination optimale et de maintenir une communication fluid
 
 **Engagement et intégration**:
 
-L'engagement actif sur le serveur Discord, notamment lors des événements clés,  contribue à une intégration réussie au sein de la Guilde et permet une participation optimale à la vie de la communauté.
+L'engagement actif sur le serveur Discord, notamment lors des événements clés, contribue à une intégration réussie au sein de la Guilde et permet une participation optimale à la vie de la communauté.
 
 La Guilde encourage vivement l'interaction et la communication entre ses membres sur le serveur Discord afin de favoriser un environnement convivial et collaboratif.
 
 ## Contribution et système de points d'activité 
 
-La prospérité et l'influence de la Guilde reposent sur la contribution active de chacun de ses membres.  Consciente de la diversité des disponibilités de ses membres, la Guilde vise à concilier l'engagement collectif avec le plaisir individuel de jouer.
+La prospérité et l'influence de la Guilde reposent sur la contribution active de chacun de ses membres. Consciente de la diversité des disponibilités de ses membres, la Guilde vise à concilier l'engagement collectif avec le plaisir individuel de jouer.
 
 **Système de points d'activité membre**
 
