@@ -90,7 +90,7 @@ Tout objet de qualité épique ou supérieure acquis par les membres de la Guild
 **Procédure de Tirage au Sort**
 
 * **Durée**: Le fil de discussion dédié à l'objet restera ouvert pendant une durée de 4 heures, permettant aux membres de la Guilde d'utiliser leurs jetons chance pour participer au tirage au sort.
-* **Méthode**: Le tirage au sort sera effectué sur le site [Random.org](https://www.random.org/lists/?mode=advanced) en utilisant un identifiant unique universel (UUID) généré aléatoirement comme valeur de départ (seed) pour garantir l'impartialité du processus.
+* **Méthode**: Le tirage au sort sera effectué par un bot Discord développé spécifiquement pour la Guilde. Ce bot automatisera le processus de sélection aléatoire du gagnant parmi les participants.
 * **Détermination du gagnant**: Le membre dont le nom apparaît en tête de la liste après le tirage au sort sera déclaré gagnant et se verra attribuer l'objet.
 
 **Attribution Définitive**
