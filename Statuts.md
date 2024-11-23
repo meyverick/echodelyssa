@@ -115,7 +115,7 @@ Marqués par le sceau de trois décennies, l'exploration est notre quête, la ca
 
 ## Ce que l'Écho de Lyssa recherche:
 
-* **Des guerriers nés entre 1990 et 2000, marqués par le feu sacré de l'aventure.** Si l'appel de l'inconnu résonne en vous, si votre cœur bat au rythme des défis, rejoignez nos rangs\!  
+* **Des guerriers nés de l'an 2000 ou avant, marqués par le feu sacré de l'aventure.** Si l'appel de l'inconnu résonne en vous, si votre cœur bat au rythme des défis, rejoignez nos rangs\!  
 * **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty.  
 * **L'envie de tisser des liens solides et de vous investir dans la guilde**, notamment sur notre Discord, essentiel pour la communication et l'organisation.
 
