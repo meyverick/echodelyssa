@@ -90,6 +90,9 @@ Tout objet de qualité épique ou supérieure acquis par les membres de la Guild
 **Procédure de Tirage au Sort**
 
 * **Durée**: Le fil de discussion dédié à l'objet restera ouvert pendant une durée de 4 heures, permettant aux membres de la Guilde d'utiliser leurs fragments d'espoir pour participer au tirage au sort.
+* **Conditions de participation**:
+  * Chaque objet mis en jeu peut exiger un solde minimum de Fragments d'Espoir pour pouvoir participer au tirage au sort.
+  * Un prix d'entrée, payable en Fragments d'Espoir, peut être défini pour chaque objet. Ce prix sera spécifié dans le fil de discussion dédié.
 * **Méthode**: Le tirage au sort sera effectué par un bot Discord développé pour la Guilde. Ce bot automatisera le processus de sélection aléatoire du gagnant, en offrant les options suivantes aux membres :
   * **Participer**: Permet d'offrir un nombre de Fragments d'Espoir au choix pour participer au tirage au sort.
   * **Vendre**: Indique que le membre ne souhaite pas l'objet pour lui-même, mais préfère le vendre et répartir les gains entre tous les membres souhaitant obtenir une part du butin.
@@ -107,6 +110,36 @@ Tout membre éligible qui n'aura pas manifesté son intention de participer au t
 **Objectif de la Procédure**
 
 Cette procédure de distribution a pour objectif de garantir une gestion équitable et transparente des objets de valeur au sein de la Guilde. Elle permet à chaque membre éligible de manifester son intérêt pour un objet de manière claire et explicite, tout en encourageant la participation active et l'implication de tous.
+
+## Vente d'Objets et Redistribution des Gains
+
+Certains objets de valeur acquis par la Guilde pourront être désignés pour la vente. Ces objets seront vendus à leur prix du marché.
+
+**Répartition du Butin**
+
+Une fois l'objet vendu, un fil de discussion dédié sera créé sur le serveur Discord. Les membres pourront alors utiliser leurs Fragments d'Espoir pour participer à un tirage au sort leur permettant de remporter une partie du butin.
+
+**Conditions de Participation**
+
+Le prix d'entrée et le solde minimum de Fragments d'Espoir requis pour participer au tirage au sort varieront en fonction de la valeur du butin. Ces informations seront clairement indiquées dans le fil de discussion dédié à chaque objet.
+
+**Détermination des Gagnants**
+
+Le nombre de gagnants sera déterminé en fonction du montant total du butin, exprimé en Lucents et en Sollants (monnaies du jeu):
+
+* Formule: `FLOOR(valeur du butin / monnaie)`
+* **1 gagnant par tranche de 100 Lucents**
+* **1 gagnant par million de Sollants**
+
+Dans le cas où les Lucents et les Sollants seraient inséparables, le nombre de gagnants sera calculé uniquement sur la base des Lucents.
+
+**Répartition Équitable**
+
+Le butin total sera ensuite réparti équitablement entre tous les gagnants désignés par le tirage au sort.
+
+**Objectif**
+
+Ce système de vente et de redistribution vise à maximiser les bénéfices collectifs de la Guilde tout en offrant à chaque membre une chance de profiter des fruits de la vente.
 
 # Boost Discord: Un Soutien Précieux
 
