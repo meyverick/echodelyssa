@@ -79,17 +79,22 @@ La Guilde compte sur l'engagement et la participation active de tous ses membres
 
 Tout objet de qualité épique ou supérieure acquis par les membres de la Guilde lors d'activités collectives sera systématiquement déposé dans le coffre de guilde. La distribution de ces objets sera ensuite effectuée selon la procédure décrite ci-dessous.
 
-**Système de Jetons Chance**
+**Fragment d'Espoir**
 
-* **Acquisition**: Chaque jeudi, un relevé des points de réputation de chaque membre est effectué. Chaque membre recevra 1 jeton chance par tranche de 500 points de réputation, sans pouvoir dépasser un maximum de 100 jetons.
-* **Utilisation**: Lorsqu'un objet épique ou supérieur est disponible, un fil de discussion (thread) dédié sera créé sur le serveur Discord de la Guilde. Les membres souhaitant participer au tirage au sort pour l'obtention de l'objet devront utiliser leurs jetons chance pour s'inscrire. Chaque jeton utilisé correspond à une participation au tirage au sort.
-* **Remboursement**: Les jetons chance utilisés par les membres n'ayant pas remporté l'objet seront remboursés. Le gagnant du tirage au sort recevra l'objet en échange des jetons chance utilisés pour sa participation.
+> *Les Fragments d'Espoir sont comme des murmures de prières, des offrandes à Lyssa, déesse de la beauté et de l'illusion, pour obtenir des objets rares et convoités. Imaginez-les scintiller comme des étoiles, déposés sur l'autel d'un désir. Chaque fragment offert amplifie votre voix, attire l'attention de la déesse et nourrit l'espoir de voir votre souhait exaucé. Tel un rituel magique, ils influencent le destin, augmentant vos chances à chaque offrande, sans jamais garantir le succès. Amassez-les avec ferveur, et que Lyssa entende votre appel!*
+
+* **Acquisition**: Chaque jeudi, un calcul des fragments d'espoir attribués à chaque membre est effectué sur la base du total des points de guilde. Le nombre de fragments est déterminé par la formule suivante: `FLOOR((Points de guilde / Nombre de membres) / 500)`. Le nombre maximum de fragments d'espoir qu'un membre peut détenir est limité à 100.
+* **Utilisation**: Lorsqu'un objet épique ou supérieur est disponible, un fil de discussion (thread) dédié sera créé sur le serveur Discord de la Guilde. Les membres souhaitant participer au tirage au sort pour l'obtention de l'objet devront utiliser leurs fragments d'espoir pour s'inscrire. Chaque fragment utilisé correspond à une participation au tirage au sort.
+* **Remboursement**: Les fragments d'espoir utilisés par les membres n'ayant pas remporté l'objet seront remboursés. Le gagnant du tirage au sort recevra l'objet en échange des fragments d'espoir utilisés pour sa participation.
 
 **Procédure de Tirage au Sort**
 
-* **Durée**: Le fil de discussion dédié à l'objet restera ouvert pendant une durée de 4 heures, permettant aux membres de la Guilde d'utiliser leurs jetons chance pour participer au tirage au sort.
-* **Méthode**: Le tirage au sort sera effectué par un bot Discord développé spécifiquement pour la Guilde. Ce bot automatisera le processus de sélection aléatoire du gagnant parmi les participants.
-* **Détermination du gagnant**: Le membre dont le nom apparaît en tête de la liste après le tirage au sort sera déclaré gagnant et se verra attribuer l'objet.
+* **Durée**: Le fil de discussion dédié à l'objet restera ouvert pendant une durée de 4 heures, permettant aux membres de la Guilde d'utiliser leurs fragments d'espoir pour participer au tirage au sort.
+* **Méthode**: Le tirage au sort sera effectué par un bot Discord développé pour la Guilde. Ce bot automatisera le processus de sélection aléatoire du gagnant, en offrant les options suivantes aux membres :
+  * **Participer**: Permet d'offrir un nombre de Fragments d'Espoir au choix pour participer au tirage au sort.
+  * **Vendre**: Indique que le membre ne souhaite pas l'objet pour lui-même, mais préfère le vendre et répartir les gains entre tous les membres souhaitant obtenir une part du butin.
+  * **Annuler**: Permet d'annuler la participation au tirage au sort.
+  * **Solde**: Permet de consulter son solde de Fragments d'Espoir.
 
 **Attribution Définitive**
 
@@ -97,11 +102,31 @@ Le résultat du tirage au sort est définitif et sans appel. L'objet sera attrib
 
 **Conséquences de la Non-Participation**
 
-Tout membre éligible qui n'aura pas manifesté son intention de participer au tirage au sort en utilisant ses jetons chance dans le fil de discussion dédié et dans le délai imparti sera automatiquement exclu du tirage au sort.
+Tout membre éligible qui n'aura pas manifesté son intention de participer au tirage au sort en utilisant ses fragments d'espoir dans le fil de discussion dédié et dans le délai imparti sera automatiquement exclu du tirage au sort.
 
 **Objectif de la Procédure**
 
 Cette procédure de distribution a pour objectif de garantir une gestion équitable et transparente des objets de valeur au sein de la Guilde. Elle permet à chaque membre éligible de manifester son intérêt pour un objet de manière claire et explicite, tout en encourageant la participation active et l'implication de tous.
+
+# Boost Discord: Un Soutien Précieux
+
+**Encouragement au Boost**
+
+La Guilde encourage ses membres à booster le serveur Discord s'ils en ont la possibilité. Le boost Discord est un moyen simple et efficace de soutenir la communauté et de contribuer à son développement.
+
+**Avantages du Boost**
+
+Chaque boost offre des avantages significatifs au serveur, tels que:
+
+* Amélioration de la qualité audio et vidéo
+* Augmentation de la capacité de stockage pour les fichiers et les emojis
+* Accès à des fonctionnalités exclusives, comme des bannières animées et des emojis personnalisés
+
+Ces améliorations contribuent à rendre le serveur plus attractif, plus convivial et plus performant, enrichissant ainsi l'expérience de tous les membres.
+
+**Impact Positif sur la Communauté**
+
+En boostant le serveur, vous démontrez votre engagement envers la Guilde et votre volonté de contribuer à son essor. Votre soutien permet d'améliorer les outils de communication et de collaboration, favorisant ainsi la cohésion et le dynamisme de la communauté.
 
 # Appel aux armes
 
