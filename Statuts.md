@@ -32,14 +32,6 @@ En rejoignant notre guilde, vous vous engagez à respecter les lois sacrées du 
 
 Que la sagesse guide vos pas et que votre aventure au sein de l'Écho de Lyssa soit glorieuse et honorable!
 
-# Comportements proscrits et conséquences juridiques
-
-Il est impératif de rappeler que la liberté d'expression, bien que fondamentale, n'est pas absolue et trouve ses limites dans le respect d'autrui et de la loi. À ce titre, toute promotion de la discrimination, de la haine ou de la violence, que ce soit par le biais de propos, d'écrits ou de tout autre moyen de communication, est strictement prohibée. L'appartenance à un groupe ou une organisation prônant de telles idées est susceptible d'engager la responsabilité pénale de l'individu. Il est important de souligner que l'espace numérique ne saurait constituer un espace de non-droit. Ainsi, les insultes, les propos diffamatoires, les menaces proférées en ligne, de même que toute forme de cyberharcèlement, sont passibles de poursuites judiciaires au même titre que les infractions commises dans le monde physique. L'intention de l'auteur, qu'elle soit établie par l'examen des propos tenus ou par tout autre moyen de preuve, constitue un élément déterminant dans la caractérisation de l'infraction. En conséquence, il est fortement recommandé d'adopter en toutes circonstances un comportement respectueux des lois et des personnes.
-
-En outre, l'utilisation de la plateforme Discord implique l'adhésion pleine et entière aux directives communautaires de Discord, disponibles en anglais: [Discord Community Guidelines](https://discord.com/guidelines) et traduites en français: [Directives communautaires de Discord](https://discord-com.translate.goog/guidelines?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp).
-
-De même, la participation au jeu Throne and Liberty requiert le respect du code de conduite d'Amazon Games, consultable en français: [Mentions légales](https://www.playthroneandliberty.com/fr-fr/legal).
-
 # Le Sanctuaire: Un Havre de Communion pour l'Écho de Lyssa
 Pour que les murmures de Lyssa résonnent avec clarté et harmonie au sein de notre noble guilde, chaque membre est invité à rejoindre notre Sanctuaire, lieu sacré de communion et d'organisation.
 
