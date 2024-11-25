@@ -99,7 +99,7 @@ Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espére
 
 Le verdict du Puit aux Souhaits est immuable, tel le destin tissé par les déesses. Nul ne peut contester sa sagesse.
 
-Que chaque membre désireux de participer à ce rituel se manifeste en déposant ses Fragments d'Espoir dans le lieu dédié, avant que le Puitsne se referme. Tout silence sera considéré comme un renoncement.
+Que chaque membre désireux de participer à ce rituel se manifeste en déposant ses Fragments d'Espoir dans le lieu dédié, avant que le Puit ne se referme. Tout silence sera considéré comme un renoncement.
 
 Ainsi, par la sagesse de Lyssa et la transparence de ce rituel, l'Écho de Lyssa assure une distribution juste et équitable de ses trésors, encourageant la participation de tous et honorant la valeur de chaque membre.
 
@@ -149,6 +149,8 @@ Marqués par le sceau de trois décennies, l'exploration est notre quête, la ca
 * **Un havre de camaraderie où règnent la bonne humeur et le respect mutuel.** Nous cultivons une ambiance mature où chacun trouve sa place.  
 * **Des expéditions régulières pour explorer les moindres recoins de Throne and Liberty.** Ensemble, nous braverons les donjons les plus obscurs, dévoilerons les secrets les mieux gardés et graverons nos noms sur les pages de l'histoire.  
 * **Un Discord vibrant où résonnent les échos de nos aventures.** Stratégies, discussions animées et rires partagés forgent les liens qui nous unissent.
+* **Une transparence cristalline et une équité sans faille.** Chaque décision, chaque distribution de trésors, chaque événement est orchestré avec soin pour que chaque membre se sente valorisé et respecté.
+* **Un guide dévoué: Aini, notre messager enchanté.** Spécialement conçu pour notre guilde, ce bot Discord veille à la juste répartition des butins et à l'organisation d'événements palpitants, vous garantissant une aventure sereine et passionnante.
 
 ## Ce que l'Écho de Lyssa recherche:
 
