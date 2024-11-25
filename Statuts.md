@@ -1,8 +1,36 @@
 # Les Statuts de l’Écho de Lyssa
 
-Les présents statuts définissent l'ensemble des règles qui régissent notre guilde. Ils ont pour objectif de garantir un environnement de jeu harmonieux, organisé et équitable pour tous les membres. Ce document clarifie le fonctionnement de notre guilde, les droits et devoirs de chacun, et les valeurs que nous partageons. En les acceptant, chaque membre s'engage à les respecter et à contribuer à la vie de la guilde dans un esprit de camaraderie et de respect mutuel.
-
 > *Dans les vastes étendues de Throne and Liberty, là où l'aventure appelle et où les héros se lèvent, résonne l'Écho de Lyssa. Inspirés par la déesse de la dualité, nous sommes des guerriers, des mages et des aventuriers unis par la soif de conquêtes et la camaraderie. Que vous soyez un vétéran aguerri ou un novice intrépide, rejoignez nos rangs et laissez votre nom s'inscrire dans la légende\!*
+
+Ce grimoire sacré renferme les lois immuables qui gouvernent notre noble guilde. Tel un serment gravé dans la pierre, il garantit à chaque membre un havre de paix et d'harmonie au sein des terres tumultueuses de Throne and Liberty.
+
+Ici sont consignés les rites et les traditions de l'Écho de Lyssa, les droits et les devoirs de chacun, et les valeurs qui brûlent au plus profond de nos cœurs. En apposant sa marque sur ces pages, chaque héros s'engage à respecter ce code sacré et à contribuer à la prospérité de la guilde, dans un esprit de camaraderie et de respect mutuel.
+
+Que la sagesse de Lyssa guide votre lecture et éclaire votre chemin!
+
+# Le Code d'Honneur de l'Écho de Lyssa
+Héros de Throne and Liberty, l'Écho de Lyssa vous accueille à bras ouverts, mais n'oubliez jamais que la liberté s'accompagne de responsabilités. Ainsi, tout en brandissant l'étendard de l'aventure et de la camaraderie, nous veillons au respect de chacun et des lois qui régissent notre monde, qu'il soit virtuel ou réel.
+
+## Paroles Sacrées et Actes Responsables:
+
+La liberté d'expression, don précieux de Lyssa, ne doit jamais servir à propager la haine, la discrimination ou la violence. Que vos paroles, vos écrits et vos actions, sur le champ de bataille comme dans le Sanctuaire, soient toujours empreints de respect et de bienveillance. N'oubliez pas que l'ombre de la justice plane sur tous les royaumes, et que les transgressions, même virtuelles, peuvent entraîner de lourdes conséquences.
+
+## Sagesse des Anciens:
+
+- Les insultes, les diffamations et les menaces, qu'elles soient proférées dans le feu de l'action ou murmurées dans l'ombre du Sanctuaire, sont bannies.
+- Le cyberharcèlement, fléau insidieux qui ronge les âmes, est proscrit.
+- L'intention, qu'elle soit révélée par les mots ou par les actes, sera jugée avec la plus grande rigueur.
+
+Que chacun veille à ses paroles et à ses actions, car l'honneur de l'Écho de Lyssa repose sur l'intégrité de ses membres.
+
+## Lois du Sanctuaire et des Royaumes:
+
+En rejoignant notre guilde, vous vous engagez à respecter les lois sacrées du Sanctuaire (Discord) et celles qui régissent les terres de Throne and Liberty. Consultez les parchemins anciens pour connaître les détails de ces lois:
+
+- Directives communautaires de Discord: [Discord Community Guidelines](https://discord.com/guidelines) et traduites en français via [Directives communautaires de Discord](https://discord-com.translate.goog/guidelines?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp)
+- Code de conduite d'Amazon Games: [Mentions légales](https://www.playthroneandliberty.com/fr-fr/legal)
+
+Que la sagesse guide vos pas et que votre aventure au sein de l'Écho de Lyssa soit glorieuse et honorable!
 
 # Comportements proscrits et conséquences juridiques
 
@@ -12,154 +40,113 @@ En outre, l'utilisation de la plateforme Discord implique l'adhésion pleine et 
 
 De même, la participation au jeu Throne and Liberty requiert le respect du code de conduite d'Amazon Games, consultable en français: [Mentions légales](https://www.playthroneandliberty.com/fr-fr/legal).
 
-# Adhésion et participation au serveur Discord
+# Le Sanctuaire: Un Havre de Communion pour l'Écho de Lyssa
+Pour que les murmures de Lyssa résonnent avec clarté et harmonie au sein de notre noble guilde, chaque membre est invité à rejoindre notre Sanctuaire, lieu sacré de communion et d'organisation.
 
-Afin d'assurer une coordination optimale et de maintenir une communication fluide entre ses membres, la Guilde requiert l'adhésion de tous ses membres à son serveur Discord officiel. 
+## Serment du Sanctuaire:
 
-**Obligations des membres**:
+- **Entrée en ces Lieux**: Tout membre de l'Écho de Lyssa est tenu de franchir le seuil du Sanctuaire et d'y inscrire sa présence.
+- **Oreille Attentive**: Que chaque héros prête attention aux messages divins qui y sont partagés, afin de rester informé des annonces, des nouvelles et des événements de la guilde.
 
-* **Adhésion**: Tout membre de la Guilde est tenu d'adhérer au serveur Discord. 
-* **Consultation**: Les membres sont tenus de consulter régulièrement le serveur Discord afin de se tenir informés des annonces, actualités et événements de la Guilde.
+## Chants de Guerre et Murmures Stratégiques:
 
-**Participation aux discussions vocales**:
+- **Heures Calmes**: En temps de paix, la participation aux discussions vocales est laissée au libre arbitre de chacun.
+- **Appel à l'Action**: Lorsque retentit le cor de la bataille, lorsque les tambours de guerre résonnent pour un raid, un donjon, une chasse au monstre ou toute autre aventure collective, la présence sur les canaux vocaux devient un devoir sacré, afin d'unir nos forces et nos voix dans un même élan.
 
-* **En dehors des événements**: La participation aux discussions vocales en dehors des événements organisés par la Guilde n'est pas obligatoire. 
-* **Lors des événements**: La participation active sur les canaux vocaux est requise lors des événements de Guilde nécessitant une coordination, tels que:
-    * Les raids et les donjons
-    * Les combats de boss
-    * Les événements PvP (Joueur contre Joueur)
-    * Toute autre activité collective spécifiée par la Guilde.
+## Coeur Vaillant et Esprit Engagé:
 
-**Engagement et intégration**:
+En s'investissant activement au sein du Sanctuaire, et plus particulièrement lors des grands défis, chaque membre tisse des liens forts avec ses frères et sœurs d'armes, participant ainsi pleinement à la vie de notre communauté.
 
-L'engagement actif sur le serveur Discord, notamment lors des événements clés, contribue à une intégration réussie au sein de la Guilde et permet une participation optimale à la vie de la communauté.
+Que les rires et les stratégies s'entremêlent dans la joie et la bonne humeur, car l'Écho de Lyssa résonne plus fort lorsque ses membres communient ensemble.
 
-La Guilde encourage vivement l'interaction et la communication entre ses membres sur le serveur Discord afin de favoriser un environnement convivial et collaboratif.
+# La Flamme de l'Écho: Nourrir le Feu Sacré
+Tel un brasier ardent, l'Écho de Lyssa puise sa force dans la flamme de chaque membre. Conscients que le temps est une denrée précieuse, nous cherchons l'équilibre entre l'ardeur collective et la liberté individuelle.
 
-## Contribution et système de points d'activité 
+## Le Souffle des Héros: Les Points d'Activité
 
-La prospérité et l'influence de la Guilde reposent sur la contribution active de chacun de ses membres. Consciente de la diversité des disponibilités de ses membres, la Guilde vise à concilier l'engagement collectif avec le plaisir individuel de jouer.
+Pour que notre flamme brûle avec éclat et guide nos pas vers la gloire, nous veillons à ce que chaque braise contribue à la chaleur du foyer.
 
-**Système de points d'activité membre**
+### Rituel d'Alimentation:
 
-Afin de maintenir un dynamisme collectif et d'assurer la progression de la Guilde, nous suivrons les points d'activité membre.
+- **Offrande Attendue**: Chaque membre est invité à offrir un minimum de 2150 points d'activité, tel un souffle puissant alimentant le brasier.
+- **Essence Distincte**: Ces points, tels des étincelles uniques, sont indépendants de la réputation et des points de guilde.
+- **Harmonie des Contributions**: Ce seuil, fruit d'une sagesse collective, permet aux plus ardents de compenser pour ceux dont le temps est compté. Ainsi, la flamme demeure vive et équilibrée.
 
-**Fonctionnement**:
+Exemple: Si notre cercle compte 10 héros, l'offrande collective attendue est de 21 500 points d'activité (10 membres x 2150 points/membre).
 
-* **Objectif**: Chaque membre est encouragé à atteindre un score minimum de 2150 points d'activité membre.
-* **Calcul**: Ce score est distinct des points de réputation individuels et des points d'activité de la Guilde. 
-* **Flexibilité**: Ce seuil, établi collectivement, permet de tenir compte des différents niveaux d'engagement possibles au sein de la Guilde. Les membres les plus actifs pourront ainsi compenser pour ceux disposant de moins de temps de jeu.
+## Égalité devant la Flamme:
 
-**Exemple**:
+Le rituel des points d'activité vise uniquement à entretenir la puissance et la prospérité de l'Écho de Lyssa. Il ne s'agit en aucun cas de distinguer ou de pénaliser qui que ce soit. Si une ombre de doute ou d'injustice venait à planer, que le membre concerné s'adresse au maître de la guilde.
 
-Pour une Guilde de 10 membres, l'objectif collectif est d'atteindre 21 500 points d'activité membre (10 membres x 2150 points/membre).
+## Engagement et Fraternité:
 
-**Non-discrimination**:
+L'Écho de Lyssa repose sur l'engagement et la participation de tous. Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partage, pour que la lumière de notre guilde éclaire les terres de Throne and Liberty.
 
-Le système de points d'activité membre a pour seul objectif de favoriser la progression et la prospérité collective de la Guilde. Il ne vise en aucun cas à instaurer une quelconque discrimination entre les membres. Tout membre se sentant jugé ou pénalisé par ce système est encouragé à contacter les responsables de la Guilde.
+## Sagesse des Anciens:
 
-**Engagement et Collaboration**:
+Pour vous guider, sachez qu'une offrande de 2150 points d'activité équivaut approximativement à un total de:
 
-La Guilde compte sur l'engagement et la participation active de tous ses membres afin de maintenir un environnement de jeu collaboratif, propice aux échanges et à la réussite collective.
+- 15 donjons conquis
+- 25 orbes et 4 portails franchis
+- 50 contrats remplis
+- 5 créatures titanesques terrassées
+- 5 participations glorieuses à des événements de niveau 50
+- 5 contributions valeureuses aux contrats de guilde.
 
-**Information**:
+# Les Trésors de l'Écho: Rituel de Distribution
+Par la grâce de Lyssa et la vaillance de nos héros, il arrive que des trésors d'une puissance rare soient arrachés aux griffes des créatures maléfiques. Ces reliques, imprégnées de magie ancienne, sont dignes des plus grands champions. Ainsi, tout artefact d'un pouvoir épique ou légendaire, forgé dans le creuset de nos aventures collectives, sera offert en tribut au coffre sacré de la guilde. Là, sous l'œil vigilant de Lyssa, il attendra d'être distribué selon un ancien rituel.
 
-À titre indicatif, un score de 2150 points d'activité membre correspond approximativement à la réalisation des objectifs de quêtes hebdomadaires suivants:
+Lorsque le moment sera venu de partager un tel trésor, Aini, le Messager de Lyssa, invoquera un Puit aux Souhaits. Chaque membre désireux de posséder la relique pourra alors y jeter un Fragment d'Espoir, offrande à la déesse et gage de sa volonté. Ceux qui auront participé à la quête victorieuse, les Héros de l'Écho, auront le privilège de jeter leur sort gratuitement.
 
-- 15 donjons +
-- 25 orbes et 4 portails +
-- 50 contrats +
-- 5 World Bosses +
-- 5 participations actives à des événements de niveau 50 +
-- 5 participations actives à des contrats de Guilde.
+Le Puit aux Souhaits, par sa magie insondable et dans les quatre heures, désignera alors un élu, ou restera silencieux si nul n'a osé tenter sa chance.
 
-##  Distribution des objets
+- **Si un nom émerge des profondeurs du Puits**: Le trésor sera remis au champion désigné par la volonté de Lyssa.
+- **Si le Puits demeure muet**: L'objet sera mis en vente au prix du marché, et les Lucents ainsi obtenues seront partagées équitablement entre les Héros ayant contribué à sa découverte.
 
-**Collecte et Conservation**
+Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espérer. Ainsi, chaque participant dont le nom ne sera pas sorti du Puit recevra un Fragment d'Espoir en récompense de sa foi.
 
-Tout objet de qualité épique ou supérieure acquis par les membres de la Guilde lors d'activités collectives sera systématiquement déposé dans le coffre de guilde. La distribution de ces objets sera ensuite effectuée selon la procédure décrite ci-dessous.
+Le verdict du Puit aux Souhaits est immuable, tel le destin tissé par les déesses. Nul ne peut contester sa sagesse.
 
-**Fragment d'Espoir**
+Que chaque membre désireux de participer à ce rituel se manifeste en déposant ses Fragments d'Espoir dans le lieu dédié, avant que le Puitsne se referme. Tout silence sera considéré comme un renoncement.
 
-> *Les Fragments d'Espoir sont comme des murmures de prières, des offrandes à Lyssa, déesse de la beauté et de l'illusion, pour obtenir des objets rares et convoités. Imaginez-les scintiller comme des étoiles, déposés sur l'autel d'un désir. Chaque fragment offert amplifie votre voix, attire l'attention de la déesse et nourrit l'espoir de voir votre souhait exaucé. Tel un rituel magique, ils influencent le destin, augmentant vos chances à chaque offrande, sans jamais garantir le succès. Amassez-les avec ferveur, et que Lyssa entende votre appel!*
+Ainsi, par la sagesse de Lyssa et la transparence de ce rituel, l'Écho de Lyssa assure une distribution juste et équitable de ses trésors, encourageant la participation de tous et honorant la valeur de chaque membre.
 
-* **Acquisition**: Chaque jeudi, un calcul des fragments d'espoir attribués à chaque membre est effectué sur la base du total des points de guilde. Le nombre de fragments est déterminé par la formule suivante: `FLOOR((Points de guilde / Nombre de membres) / 500)`. Le nombre maximum de fragments d'espoir qu'un membre peut détenir est limité à 100.
-* **Utilisation**: Lorsqu'un objet épique ou supérieur est disponible, un fil de discussion (thread) dédié sera créé sur le serveur Discord de la Guilde. Les membres souhaitant participer au tirage au sort pour l'obtention de l'objet devront utiliser leurs fragments d'espoir pour s'inscrire. Chaque fragment utilisé correspond à une participation au tirage au sort.
-* **Remboursement**: Les fragments d'espoir utilisés par les membres n'ayant pas remporté l'objet seront remboursés. Le gagnant du tirage au sort recevra l'objet en échange des fragments d'espoir utilisés pour sa participation.
+# L'Or et l'Argent de l'Écho: Partage du Butin
+Il arrive que les trésors arrachés aux griffes des monstres ne soient point des armes ou des armures, mais de l'or et de l'argent scintillants, Lucents et Sollants, monnaies précieuses de ces terres. Pour que ces richesses profitent à tous, voici comment l'Écho de Lyssa partagera le butin:
 
-**Procédure de Tirage au Sort**
+## Le Comptage des Pièces:
 
-* **Durée**: Le fil de discussion dédié à l'objet restera ouvert pendant une durée de 4 heures, permettant aux membres de la Guilde d'utiliser leurs fragments d'espoir pour participer au tirage au sort.
-* **Conditions de participation**:
-  * Chaque objet mis en jeu peut exiger un solde minimum de Fragments d'Espoir pour pouvoir participer au tirage au sort.
-  * Un prix d'entrée, payable en Fragments d'Espoir, peut être défini pour chaque objet. Ce prix sera spécifié dans le fil de discussion dédié.
-* **Méthode**: Le tirage au sort sera effectué par un bot Discord développé pour la Guilde. Ce bot automatisera le processus de sélection aléatoire du gagnant, en offrant les options suivantes aux membres :
-  * **Participer**: Permet d'offrir un nombre de Fragments d'Espoir au choix pour participer au tirage au sort.
-  * **Vendre**: Indique que le membre ne souhaite pas l'objet pour lui-même, mais préfère le vendre et répartir les gains entre tous les membres souhaitant obtenir une part du butin.
-  * **Annuler**: Permet d'annuler la participation au tirage au sort.
-  * **Solde**: Permet de consulter son solde de Fragments d'Espoir.
+- **Sagesse des Nombres**: Le nombre de héros qui partageront le trésor dépendra de la quantité d'or amassée. Plus le butin est grand, plus nombreux seront les élus.
+- **Formule Magique**: FLOOR(valeur du butin / monnaie)
+- **Lucents Brillants**: Pour chaque tranche de 100 Lucents, un gagnant sera désigné.
+- **Sollants Étincelants**: Pour chaque million de Sollants, un élu sera choisi.
 
-**Attribution Définitive**
+Si Lucents et Sollants sont liés par un sortilège et ne peuvent être séparés, seuls les Lucents seront pris en compte pour le partage.
 
-Le résultat du tirage au sort est définitif et sans appel. L'objet sera attribué au membre désigné par le tirage au sort, sans possibilité de contestation.
+Une fois les gagnants désignés par le Puit aux Souhaits, le butin sera partagé entre eux avec équité, chacun recevant une part égale de la fortune.
 
-**Conséquences de la Non-Participation**
+Ainsi, l'Écho de Lyssa s'assure que les richesses profitent à tous, en offrant à chaque membre une chance de goûter à la prospérité, tout en renforçant les liens de la guilde.
 
-Tout membre éligible qui n'aura pas manifesté son intention de participer au tirage au sort en utilisant ses fragments d'espoir dans le fil de discussion dédié et dans le délai imparti sera automatiquement exclu du tirage au sort.
+# Le Sanctuaire de Lyssa: Offrez-lui votre Éclat!
+Héros de l'Écho de Lyssa, notre Sanctuaire, lieu de rassemblement et de communion, peut encore gagner en splendeur et en puissance grâce à votre générosité!
 
-**Objectif de la Procédure**
+## L'Offrande Lumineuse:
 
-Cette procédure de distribution a pour objectif de garantir une gestion équitable et transparente des objets de valeur au sein de la Guilde. Elle permet à chaque membre éligible de manifester son intérêt pour un objet de manière claire et explicite, tout en encourageant la participation active et l'implication de tous.
+Si le cœur vous en dit et que vos bourses le permettent, nous vous encourageons à offrir au Sanctuaire un "Boost Discord". Tel un rayon de lumière, il illuminera notre demeure et la fera prospérer.
 
-## Vente d'Objets et Redistribution des Gains
+## Grâces du Boost:
 
-Certains objets de valeur acquis par la Guilde pourront être désignés pour la vente. Ces objets seront vendus à leur prix du marché.
+Chaque Boost accordé au Sanctuaire débloque des merveilles et des bénédictions:
 
-**Répartition du Butin**
+- **Voix Cristallines et Images Lumineuses**: La qualité de nos communications s'en trouvera grandement améliorée.
+- **Trésors Infinis**: L'espace de stockage pour nos fichiers et nos émoticônes sera décuplé, nous permettant de partager encore plus de souvenirs et d'émotions.
+- **Ornements Divins**: Des bannières animées et des émoticônes uniques viendront embellir notre Sanctuaire, le rendant plus accueillant et plus joyeux.
 
-Une fois l'objet vendu, un fil de discussion dédié sera créé sur le serveur Discord. Les membres pourront alors utiliser leurs Fragments d'Espoir pour participer à un tirage au sort leur permettant de remporter une partie du butin.
+Grâce à ces améliorations, le Sanctuaire deviendra un lieu encore plus magique, propice aux échanges et à la camaraderie.
 
-**Conditions de Participation**
+## Un Geste de Coeur:
 
-Le prix d'entrée et le solde minimum de Fragments d'Espoir requis pour participer au tirage au sort varieront en fonction de la valeur du butin. Ces informations seront clairement indiquées dans le fil de discussion dédié à chaque objet.
-
-**Détermination des Gagnants**
-
-Le nombre de gagnants sera déterminé en fonction du montant total du butin, exprimé en Lucents et en Sollants (monnaies du jeu):
-
-* Formule: `FLOOR(valeur du butin / monnaie)`
-* **1 gagnant par tranche de 100 Lucents**
-* **1 gagnant par million de Sollants**
-
-Dans le cas où les Lucents et les Sollants seraient inséparables, le nombre de gagnants sera calculé uniquement sur la base des Lucents.
-
-**Répartition Équitable**
-
-Le butin total sera ensuite réparti équitablement entre tous les gagnants désignés par le tirage au sort.
-
-**Objectif**
-
-Ce système de vente et de redistribution vise à maximiser les bénéfices collectifs de la Guilde tout en offrant à chaque membre une chance de profiter des fruits de la vente.
-
-# Boost Discord: Un Soutien Précieux
-
-**Encouragement au Boost**
-
-La Guilde encourage ses membres à booster le serveur Discord s'ils en ont la possibilité. Le boost Discord est un moyen simple et efficace de soutenir la communauté et de contribuer à son développement.
-
-**Avantages du Boost**
-
-Chaque boost offre des avantages significatifs au serveur, tels que:
-
-* Amélioration de la qualité audio et vidéo
-* Augmentation de la capacité de stockage pour les fichiers et les emojis
-* Accès à des fonctionnalités exclusives, comme des bannières animées et des emojis personnalisés
-
-Ces améliorations contribuent à rendre le serveur plus attractif, plus convivial et plus performant, enrichissant ainsi l'expérience de tous les membres.
-
-**Impact Positif sur la Communauté**
-
-En boostant le serveur, vous démontrez votre engagement envers la Guilde et votre volonté de contribuer à son essor. Votre soutien permet d'améliorer les outils de communication et de collaboration, favorisant ainsi la cohésion et le dynamisme de la communauté.
+En offrant un Boost au Sanctuaire, vous témoignez de votre dévouement à l'Écho de Lyssa et de votre volonté de contribuer à son rayonnement. Votre soutien renforce les liens qui nous unissent et nous permet de vivre des aventures encore plus grandioses.
 
 # Appel aux armes
 
@@ -177,5 +164,6 @@ Marqués par le sceau de trois décennies, l'exploration est notre quête, la ca
 * **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty.  
 * **L'envie de tisser des liens solides et de vous investir dans la guilde**, notamment sur notre Discord, essentiel pour la communication et l'organisation.
 
-Prêt à forger votre légende? [Cliquez ici et rejoignez l'aventure\!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)  
+Prêt à forger votre légende? [Cliquez ici et rejoignez l'aventure\!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)
+
 L'aventure commence maintenant\!
