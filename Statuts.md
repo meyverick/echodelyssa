@@ -158,6 +158,4 @@ Marqués par le sceau de trois décennies, l'exploration est notre quête, la ca
 * **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty.  
 * **L'envie de tisser des liens solides et de vous investir dans la guilde**, notamment sur notre Discord, essentiel pour la communication et l'organisation.
 
-Prêt à forger votre légende? [Cliquez ici et rejoignez l'aventure\!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)
-
-L'aventure commence maintenant\!
+Prêt à forger votre légende? [Cliquez ici, l'aventure commence maintenant\!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)
