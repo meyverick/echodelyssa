@@ -54,48 +54,22 @@ Que les rires et les stratégies s'entremêlent dans la joie et la bonne humeur,
 # La Flamme de l'Écho: Nourrir le Feu Sacré
 Tel un brasier ardent, l'Écho de Lyssa puise sa force dans la flamme de chaque membre. Conscients que le temps est une denrée précieuse, nous cherchons l'équilibre entre l'ardeur collective et la liberté individuelle.
 
-## Le Souffle des Héros: Les Points d'Activité
-
-Pour que notre flamme brûle avec éclat et guide nos pas vers la gloire, nous veillons à ce que chaque braise contribue à la chaleur du foyer.
-
-### Rituel d'Alimentation:
-
-- **Offrande Attendue**: Chaque membre est invité à offrir un minimum de 2150 points d'activité, tel un souffle puissant alimentant le brasier.
-- **Essence Distincte**: Ces points, tels des étincelles uniques, sont indépendants de la réputation et des points de guilde.
-- **Harmonie des Contributions**: Ce seuil, fruit d'une sagesse collective, permet aux plus ardents de compenser pour ceux dont le temps est compté. Ainsi, la flamme demeure vive et équilibrée.
-
-Exemple: Si notre cercle compte 10 héros, l'offrande collective attendue est de 21 500 points d'activité (10 membres x 2150 points/membre).
-
-## Égalité devant la Flamme:
-
-Le rituel des points d'activité vise uniquement à entretenir la puissance et la prospérité de l'Écho de Lyssa. Il ne s'agit en aucun cas de distinguer ou de pénaliser qui que ce soit. Si une ombre de doute ou d'injustice venait à planer, que le membre concerné s'adresse au maître de la guilde.
-
-## Engagement et Fraternité:
-
-L'Écho de Lyssa repose sur l'engagement et la participation de tous. Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partage, pour que la lumière de notre guilde éclaire les terres de Throne and Liberty.
-
-## Sagesse des Anciens:
-
-Pour vous guider, sachez qu'une offrande de 2150 points d'activité équivaut approximativement à un total de:
-
-- 15 donjons conquis
-- 25 orbes et 4 portails franchis
-- 50 contrats remplis
-- 5 créatures titanesques terrassées
-- 5 participations glorieuses à des événements de niveau 50
-- 5 contributions valeureuses aux contrats de guilde.
+Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partage, pour que la lumière de notre guilde éclaire les terres de Throne and Liberty.
 
 # Les Trésors de l'Écho: Rituel de Distribution
 Par la grâce de Lyssa et la vaillance de nos héros, il arrive que des trésors d'une puissance rare soient arrachés aux griffes des créatures maléfiques. Ces reliques, imprégnées de magie ancienne, sont dignes des plus grands champions. Ainsi, tout artefact d'un pouvoir épique ou légendaire, forgé dans le creuset de nos aventures collectives, sera offert en tribut au coffre sacré de la guilde. Là, sous l'œil vigilant de Lyssa, il attendra d'être distribué selon un ancien rituel.
 
 Lorsque le moment sera venu de partager un tel trésor, Aini, le Messager de Lyssa, invoquera un Puit aux Souhaits. Chaque membre désireux de posséder la relique pourra alors y jeter un Fragment d'Espoir, offrande à la déesse et gage de sa volonté. Ceux qui auront participé à la quête victorieuse, les Héros de l'Écho, auront le privilège de jeter leur sort gratuitement.
 
-Le Puit aux Souhaits, par sa magie insondable et dans les quatre heures, désignera alors un élu, ou restera silencieux si nul n'a osé tenter sa chance.
+Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant à chacun l'opportunité d'y déposer ses Fragments d'Espoir. Plus les offrandes sont nombreuses, plus la voix du héros résonne fort aux oreilles de Lyssa. Puis, lorsque les étoiles seront alignées, le Puit désignera celui dont l'appel a été le plus fervent. En cas de ferveur égale, la déesse, dans son infinie sagesse, choisira un élu au hasard parmi ceux qui ont osé croire en leur destin.
 
-- **Si un nom émerge des profondeurs du Puits**: Le trésor sera remis au champion désigné par la volonté de Lyssa.
-- **Si le Puits demeure muet**: L'objet sera mis en vente au prix du marché, et les Lucents ainsi obtenues seront partagées équitablement entre les Héros ayant contribué à sa découverte.
+- **Si un nom émerge des profondeurs du Puit**: Le trésor sera remis au champion désigné par la volonté de Lyssa.
+- **Si le Puit demeure muet**: L'objet sera mis en vente au prix du marché, et les gains ainsi obtenues seront partagées équitablement entre les Héros ayant contribué à sa découverte.
 
-Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espérer. Ainsi, chaque participant dont le nom ne sera pas sorti du Puit recevra un Fragment d'Espoir en récompense de sa foi.
+Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espérer. Ainsi, chaque participant dont le nom ne sera pas sorti du Puit sera récompensé selon sa contribution:
+
+- Les **membres** verront leurs Fragments d'Espoir, gages de leur foi, leur être restitués.
+- Les **Héros**, témoins de leur courage et de leur dévouement, recevront un Fragment d'Espoir supplémentaire si l'objet n'est pas vendu.
 
 Le verdict du Puit aux Souhaits est immuable, tel le destin tissé par les déesses. Nul ne peut contester sa sagesse.
 
@@ -109,8 +83,8 @@ Il arrive que les trésors arrachés aux griffes des monstres ne soient point de
 ## Le Comptage des Pièces:
 
 - **Sagesse des Nombres**: Le nombre de héros qui partageront le trésor dépendra de la quantité d'or amassée. Plus le butin est grand, plus nombreux seront les élus.
-- **Formule Magique**: FLOOR(valeur du butin / monnaie)
-- **Lucents Brillants**: Pour chaque tranche de 100 Lucents, un gagnant sera désigné.
+- **Formule Magique**: `FLOOR(valeur du butin / monnaie)`
+- **Lucents Brillants**: Pour chaque tranche de 1000 Lucents, un gagnant sera désigné.
 - **Sollants Étincelants**: Pour chaque million de Sollants, un élu sera choisi.
 
 Si Lucents et Sollants sont liés par un sortilège et ne peuvent être séparés, seuls les Lucents seront pris en compte pour le partage.
@@ -130,7 +104,7 @@ Si le cœur vous en dit et que vos bourses le permettent, nous vous encourageons
 
 Chaque Boost accordé au Sanctuaire débloque des merveilles et des bénédictions:
 
-- **Voix Cristallines et Images Lumineuses**: La qualité de nos communications s'en trouvera grandement améliorée.
+- **Voix Limpides et Images Lumineuses**: La qualité de nos communications s'en trouvera grandement améliorée.
 - **Trésors Infinis**: L'espace de stockage pour nos fichiers et nos émoticônes sera décuplé, nous permettant de partager encore plus de souvenirs et d'émotions.
 - **Ornements Divins**: Des bannières animées et des émoticônes uniques viendront embellir notre Sanctuaire, le rendant plus accueillant et plus joyeux.
 
