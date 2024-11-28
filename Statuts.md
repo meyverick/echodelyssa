@@ -70,7 +70,6 @@ Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espére
 
 - Les **membres** verront leurs Fragments d'Espoir, gages de leur foi, leur être restitués.
 - Les **Héros**, témoins de leur courage et de leur dévouement, recevront un Fragment d'Espoir supplémentaire si l'objet n'est pas vendu.
-
 Le verdict du Puit aux Souhaits est immuable, tel le destin tissé par les déesses. Nul ne peut contester sa sagesse.
 
 Que chaque membre désireux de participer à ce rituel se manifeste en déposant ses Fragments d'Espoir dans le lieu dédié, avant que le Puit ne se referme. Tout silence sera considéré comme un renoncement.
