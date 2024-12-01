@@ -54,6 +54,12 @@ Tel un brasier ardent, l'Écho de Lyssa puise sa force dans la flamme de chaque 
 
 Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partage, pour que la lumière de notre guilde éclaire les terres de Throne and Liberty.
 
+# L'Unicité du Héros au sein de l'Écho de Lyssa
+
+Chaque membre de l'Écho de Lyssa est une étoile unique dans la constellation de notre guilde. Ainsi, afin de préserver l'équilibre et l'harmonie de notre communauté, un seul personnage par joueur pourra rejoindre nos rangs et  porter fièrement nos couleurs.
+
+Cette règle vise à favoriser une plus grande implication de chaque membre et à renforcer les liens qui nous unissent. En concentrant votre énergie et votre dévouement sur un seul héros, vous contribuerez pleinement à la prospérité de l'Écho de Lyssa et à la réalisation de notre destinée commune.
+
 # Les Trésors de l'Écho: Rituel de Distribution
 
 Par la grâce de Lyssa et la vaillance de nos héros, il arrive que des trésors d'une puissance rare soient arrachés aux griffes des créatures maléfiques. Ces reliques, imprégnées de magie ancienne, sont dignes des plus grands champions. Ainsi, tout artefact d'un pouvoir épique ou légendaire, forgé dans le creuset de nos aventures collectives, sera offert en tribut au coffre sacré de la guilde. Là, sous l'œil vigilant de Lyssa, il attendra d'être distribué selon un ancien rituel.
