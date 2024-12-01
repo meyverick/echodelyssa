@@ -1,7 +1,5 @@
 # Les Statuts de l’Écho de Lyssa
 
-> *Dans les vastes étendues de Throne and Liberty, là où l'aventure appelle et où les héros se lèvent, résonne l'Écho de Lyssa. Inspirés par la déesse de la dualité, nous sommes des guerriers, des mages et des aventuriers unis par la soif de conquêtes et la camaraderie. Que vous soyez un vétéran aguerri ou un novice intrépide, rejoignez nos rangs et laissez votre nom s'inscrire dans la légende\!*
-
 Ce grimoire sacré renferme les lois immuables qui gouvernent notre noble guilde. Tel un serment gravé dans la pierre, il garantit à chaque membre un havre de paix et d'harmonie au sein des terres tumultueuses de Throne and Liberty.
 
 Ici sont consignés les rites et les traditions de l'Écho de Lyssa, les droits et les devoirs de chacun, et les valeurs qui brûlent au plus profond de nos cœurs. En apposant sa marque sur ces pages, chaque héros s'engage à respecter ce code sacré et à contribuer à la prospérité de la guilde, dans un esprit de camaraderie et de respect mutuel.
@@ -57,11 +55,12 @@ Tel un brasier ardent, l'Écho de Lyssa puise sa force dans la flamme de chaque 
 Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partage, pour que la lumière de notre guilde éclaire les terres de Throne and Liberty.
 
 # Les Trésors de l'Écho: Rituel de Distribution
+
 Par la grâce de Lyssa et la vaillance de nos héros, il arrive que des trésors d'une puissance rare soient arrachés aux griffes des créatures maléfiques. Ces reliques, imprégnées de magie ancienne, sont dignes des plus grands champions. Ainsi, tout artefact d'un pouvoir épique ou légendaire, forgé dans le creuset de nos aventures collectives, sera offert en tribut au coffre sacré de la guilde. Là, sous l'œil vigilant de Lyssa, il attendra d'être distribué selon un ancien rituel.
 
 Lorsque le moment sera venu de partager un tel trésor, Aini, le Messager de Lyssa, invoquera un Puit aux Souhaits. Chaque membre désireux de posséder la relique pourra alors y jeter un Fragment d'Espoir, offrande à la déesse et gage de sa volonté. Ceux qui auront participé à la quête victorieuse, les Héros de l'Écho, auront le privilège de jeter leur sort gratuitement.
 
-Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant à chacun l'opportunité d'y déposer ses Fragments d'Espoir. Plus les offrandes sont nombreuses, plus la voix du héros résonne fort aux oreilles de Lyssa. Puis, lorsque les étoiles seront alignées, le Puit désignera celui dont l'appel a été le plus fervent. En cas de ferveur égale, la déesse, dans son infinie sagesse, choisira un élu au hasard parmi ceux qui ont osé croire en leur destin.
+Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant à chacun l'opportunité d'y jeter un Fragment d'Espoir. Plus les offrandes sont nombreuses, plus la voix du héros résonne fort aux oreilles de Lyssa. Puis, lorsque les étoiles seront alignées, le Puit désignera un élu au hasard.
 
 - **Si un nom émerge des profondeurs du Puit**: Le trésor sera remis au champion désigné par la volonté de Lyssa.
 - **Si le Puit demeure muet**: L'objet sera mis en vente au prix du marché, et les gains ainsi obtenues seront partagées équitablement entre les Héros ayant contribué à sa découverte.
@@ -69,10 +68,11 @@ Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant 
 Mais Lyssa, dans sa grande générosité, n'oublie pas ceux qui ont osé espérer. Ainsi, chaque participant dont le nom ne sera pas sorti du Puit sera récompensé selon sa contribution:
 
 - Les **membres** verront leurs Fragments d'Espoir, gages de leur foi, leur être restitués.
-- Les **Héros**, témoins de leur courage et de leur dévouement, recevront un Fragment d'Espoir supplémentaire si l'objet n'est pas vendu.
+- Les **Héros**, témoins de leur courage et de leur dévouement, recevront un Fragment d'Espoir si l'objet n'est pas vendu.
+
 Le verdict du Puit aux Souhaits est immuable, tel le destin tissé par les déesses. Nul ne peut contester sa sagesse.
 
-Que chaque membre désireux de participer à ce rituel se manifeste en déposant ses Fragments d'Espoir dans le lieu dédié, avant que le Puit ne se referme. Tout silence sera considéré comme un renoncement.
+Que chaque membre désireux de participer à ce rituel se manifeste en déposant un Fragment d'Espoir dans le lieu dédié, avant que le Puit ne se referme. Tout silence sera considéré comme un renoncement.
 
 Ainsi, par la sagesse de Lyssa et la transparence de ce rituel, l'Écho de Lyssa assure une distribution juste et équitable de ses trésors, encourageant la participation de tous et honorant la valeur de chaque membre.
 
@@ -81,7 +81,7 @@ Il arrive que les trésors arrachés aux griffes des monstres ne soient point de
 
 ## Le Comptage des Pièces:
 
-- **Sagesse des Nombres**: Le nombre de héros qui partageront le trésor dépendra de la quantité d'or amassée. Plus le butin est grand, plus nombreux seront les élus.
+- **Sagesse des Nombres**: Le nombre de membres qui partageront le trésor dépendra de la quantité d'or amassée. Plus le butin est grand, plus nombreux seront les élus.
 - **Formule Magique**: `FLOOR(valeur du butin / monnaie)`
 - **Lucents Brillants**: Pour chaque tranche de 1000 Lucents, un gagnant sera désigné.
 - **Sollants Étincelants**: Pour chaque million de Sollants, un élu sera choisi.
@@ -115,20 +115,15 @@ En offrant un Boost au Sanctuaire, vous témoignez de votre dévouement à l'Éc
 
 # Appel aux armes
 
-Marqués par le sceau de trois décennies, l'exploration est notre quête, la camaraderie notre étendard. Nous ne cherchons pas la gloire éphémère des classements, mais la satisfaction de conquérir ensemble les défis les plus ardus. Pour atteindre les sommets, la discipline est notre alliée, sans jamais entraver la liberté de chaque guerrier.
+*Là où l'aventure appelle et les héros s'élèvent, résonne l'Écho de Lyssa, guilde d'aventuriers unis par la soif d'exploration et la force de la camaraderie. Guidés par la déesse de la dualité, nous bravons les défis les plus ardus, non pour la gloire éphémère des classements, mais pour la satisfaction de triompher ensemble, dans un esprit de discipline et de liberté. Nos lames s'abreuvent du sang des monstres, nos sorts percent les ténèbres, et nos cœurs résonnent à l'unisson face à l'adversité.*
 
 ## Ce que l'Écho de Lyssa offre:
 
-* **Un havre de camaraderie où règnent la bonne humeur et le respect mutuel.** Nous cultivons une ambiance mature où chacun trouve sa place.  
-* **Des expéditions régulières pour explorer les moindres recoins de Throne and Liberty.** Ensemble, nous braverons les donjons les plus obscurs, dévoilerons les secrets les mieux gardés et graverons nos noms sur les pages de l'histoire.  
+* **Un havre de camaraderie où règnent la bonne humeur et le respect mutuel.** Nous cultivons une ambiance chaleureuse où chacun trouve sa place.  
+* **Des expéditions régulières pour explorer les moindres recoins de Throne and Liberty.** Ensemble, nous braverons les donjons les plus obscurs, dévoilerons les secrets les mieux gardés et graverons nos noms sur les pages de l'histoire.
+* **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty. 
 * **Un Discord vibrant où résonnent les échos de nos aventures.** Stratégies, discussions animées et rires partagés forgent les liens qui nous unissent.
 * **Une transparence cristalline et une équité sans faille.** Chaque décision, chaque distribution de trésors, chaque événement est orchestré avec soin pour que chaque membre se sente valorisé et respecté.
-* **Un guide dévoué: Aini, notre messager enchanté.** Spécialement conçu pour notre guilde, ce bot Discord veille à la juste répartition des butins et à l'organisation d'événements palpitants, vous garantissant une aventure sereine et passionnante.
-
-## Ce que l'Écho de Lyssa recherche:
-
-* **Des guerriers nés de l'an 2000 ou avant, marqués par le feu sacré de l'aventure.** Si l'appel de l'inconnu résonne en vous, si votre cœur bat au rythme des défis, rejoignez nos rangs\!  
-* **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty.  
-* **L'envie de tisser des liens solides et de vous investir dans la guilde**, notamment sur notre Discord, essentiel pour la communication et l'organisation.
+* **Un guide dévoué: Aini, notre messager enchanté.** Spécialement conçu pour notre guilde, ce serviteur Discord veille à la juste répartition des butins et à l'organisation d'événements palpitants, vous garantissant une aventure sereine et passionnante.
 
 Prêt à forger votre légende? [Cliquez ici, l'aventure commence maintenant\!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)
