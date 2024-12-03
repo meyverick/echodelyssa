@@ -68,7 +68,7 @@ Par la grâce de Lyssa et la vaillance de nos héros, il arrive que des trésors
 
 Lorsque le moment sera venu de partager un tel trésor, Aini, le Messager de Lyssa, invoquera un Puit aux Souhaits. Chaque membre désireux de posséder la relique pourra alors y jeter un Fragment d'Espoir, offrande à la déesse et gage de sa volonté. Ceux qui auront participé à la quête victorieuse, les Héros de l'Écho, auront le privilège de jeter leur sort gratuitement.
 
-Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant à chacun l'opportunité d'y jeter un Fragment d'Espoir. Plus les offrandes sont nombreuses, plus la voix du héros résonne fort aux oreilles de Lyssa. Puis, lorsque les étoiles seront alignées, le Puit désignera un élu au hasard.
+Le Puit aux Souhaits, par sa magie insondable, restera ouvert un temps, offrant à chacun l'opportunité d'y jeter un Fragment d'Espoir. Puis, lorsque les étoiles seront alignées, le Puit désignera un élu au hasard.
 
 - **Si un nom émerge des profondeurs du Puit**: Le trésor sera remis au champion désigné par la volonté de Lyssa.
 - **Si le Puit demeure muet**: L'objet sera mis en vente au prix du marché, et les gains ainsi obtenues seront partagées équitablement entre les Héros ayant contribué à sa découverte.
