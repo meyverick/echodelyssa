@@ -25,7 +25,9 @@ Que chacun veille à ses paroles et à ses actions, car l'honneur de l'Écho de 
 
 En rejoignant notre guilde, vous vous engagez à respecter les lois sacrées du Sanctuaire (Discord) et celles qui régissent les terres de Throne and Liberty. Consultez les parchemins anciens pour connaître les détails de ces lois:
 
-- Directives communautaires de Discord: [Discord Community Guidelines](https://discord.com/guidelines) et traduites en français via [Directives communautaires de Discord](https://discord-com.translate.goog/guidelines?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp)
+- Directives communautaires de Discord:
+  - [Discord Community Guidelines](https://discord.com/guidelines)
+  - et traduites en français via [Directives communautaires de Discord](https://discord-com.translate.goog/guidelines?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp)
 - Code de conduite d'Amazon Games: [Mentions légales](https://www.playthroneandliberty.com/fr-fr/legal)
 
 Que la sagesse guide vos pas et que votre aventure au sein de l'Écho de Lyssa soit glorieuse et honorable!
