@@ -27,9 +27,9 @@ Héros de l'Écho de Lyssa, souvenez-vous que même les plus valeureux guerriers
 
 **La Sagesse des Jetons:**
 
-Les jetons, symboles de votre engagement, ne doivent pas devenir des chaînes qui vous entravent. Ne vous sentez pas obligés de les dépenser sans cesse, au risque de vous épuiser et de perdre le plaisir du jeu. Considérez-les plutôt comme des guides bienveillants, vous rappelant qu'il est parfois sage de faire une pause et de savourer les moments de répit.
+Les jetons ne doivent pas devenir des chaînes qui vous entravent. Accumulez-les sans pression, tel un trésor que vous amassez pour les jours de fête; N'ayez crainte d'atteindre, voire de dépasser, le seuil maximal de stockage: vos jetons ne disparaîtront pas et vous attendront patiemment.
 
-Vider votre réserve de jetons signifie simplement que vous avez honoré votre part du contrat et que vous pouvez désormais vous adonner à d'autres activités, explorer de nouveaux horizons ou simplement vous reposer, afin de revenir plus fort et plus motivé.
+Ainsi, lorsque l'envie vous prendra de participer à des activités exigeant ces précieux sésames, vous serez ravis de posséder une réserve abondante, prêts à relever tous les défis!
 
 **Le Jeu, Source de Joie:**
 
