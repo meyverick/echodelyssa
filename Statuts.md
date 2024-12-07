@@ -140,6 +140,18 @@ Grâce à ces améliorations, le Sanctuaire deviendra un lieu encore plus magiqu
 
 En offrant un Boost au Sanctuaire, vous témoignez de votre dévouement à l'Écho de Lyssa et de votre volonté de contribuer à son rayonnement. Votre soutien renforce les liens qui nous unissent et nous permet de vivre des aventures encore plus grandioses.
 
+# La Harpe Céleste: Symbole de l'Écho de Lyssa
+
+L'emblème de notre guilde, une harpe nommée "Bleue du lac d'argent", est bien plus qu'un simple ornement. Il porte en lui l'histoire de notre fondation et les valeurs qui nous animent.
+
+Selon la légende, un groupe d'aventuriers intrépides, précurseurs de notre guilde, découvrit au cœur d'une forêt ancienne une clairière baignée d'une lumière surnaturelle. Au centre de cette clairière se trouvait un lac aux eaux cristallines, d'une teinte bleue extraordinaire. Et sur la rive de ce lac, reposait une harpe magique, irradiant une aura mystique. Fascinés par sa beauté et la couleur unique de son bois, ils la baptisèrent "Bleue du lac d'argent".
+
+Lorsqu'ils s'approchèrent, la harpe se mit à jouer une mélodie envoûtante, tissant des illusions merveilleuses et révélant des vérités cachées. Les aventuriers comprirent alors qu'ils étaient en présence d'un artefact divin, lié à Lyssa, déesse de la beauté et de l'illusion. Touchés par la grâce de la déesse, ils décidèrent de former une guilde, l'Écho de Lyssa, et de prendre la harpe bleutée comme emblème.
+
+**La "Bleue du lac d'argent"** symbolise non seulement le mystère et la sagesse de Lyssa, mais aussi la sérénité et la profondeur spirituelle, évoquant les eaux cristallines du lac où elle fut découverte. **Les cordes blanches**, quant à elles, incarnent la noblesse de nos intentions et notre quête d'harmonie. La harpe, instrument de musique et de magie, incarne notre désir de créer une communauté où l'aventure et la camaraderie s'harmonisent.
+
+Ainsi, portons fièrement cet emblème, témoin de notre lien avec Lyssa et de notre engagement à défendre les valeurs de la guilde: l'entraide, le respect et la quête de l'excellence.
+
 # Appel aux armes
 
 > *Là où l'aventure appelle et les héros s'élèvent, résonne l'Écho de Lyssa, guilde d'aventuriers unis par la soif d'exploration et la force de la camaraderie. Guidés par la déesse de la dualité, nous bravons les défis les plus ardus, non pour la gloire éphémère des classements, mais pour la satisfaction de triompher ensemble, dans un esprit de discipline et de liberté; Nos lames s'abreuvent du sang des monstres, nos sorts percent les ténèbres, et nos cœurs résonnent à l'unisson face à l'adversité.*
