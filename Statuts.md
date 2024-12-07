@@ -35,7 +35,7 @@ Ainsi, lorsque l'envie vous prendra de participer à des activités exigeant ces
 
 N'oubliez jamais que Throne and Liberty est avant tout un royaume de divertissement et de plaisir. Ne laissez pas l'optimisation et la performance vous priver de la joie simple de l'exploration, des rencontres et des moments de détente partagés avec vos compagnons d'armes.
 
-**Liberté et Équilibre :**
+**Liberté et Équilibre:**
 
 Chacun est libre de jouer à son rythme, selon ses envies et ses disponibilités. L'Écho de Lyssa encourage la diversité et le respect des choix de chacun. Que votre aventure soit source d'épanouissement et de joie, sans jamais devenir une contrainte ou une source de stress.
 
