@@ -21,6 +21,24 @@ La liberté d'expression, don précieux de Lyssa, ne doit jamais servir à propa
 
 Que chacun veille à ses paroles et à ses actions, car l'honneur de l'Écho de Lyssa repose sur l'intégrité de ses membres.
 
+## L'Harmonie entre l'Aventure et le Repos
+
+Héros de l'Écho de Lyssa, souvenez-vous que même les plus valeureux guerriers ont besoin de repos pour que leur flamme intérieure brûle avec éclat. Ainsi, tout en parcourant les terres de Throne and Liberty avec courage et détermination, n'oubliez jamais de préserver un équilibre sain entre l'aventure et vos obligations, qu'elles soient liées au monde réel ou à vos propres aspirations.
+
+**La Sagesse des Jetons:**
+
+Les jetons, symboles de votre engagement, ne doivent pas devenir des chaînes qui vous entravent. Ne vous sentez pas obligés de les dépenser sans cesse, au risque de vous épuiser et de perdre le plaisir du jeu. Considérez-les plutôt comme des guides bienveillants, vous rappelant qu'il est parfois sage de faire une pause et de savourer les moments de répit.
+
+Vider votre réserve de jetons signifie simplement que vous avez honoré votre part du contrat et que vous pouvez désormais vous adonner à d'autres activités, explorer de nouveaux horizons ou simplement vous reposer, afin de revenir plus fort et plus motivé.
+
+**Le Jeu, Source de Joie:**
+
+N'oubliez jamais que Throne and Liberty est avant tout un royaume de divertissement et de plaisir. Ne laissez pas l'optimisation et la performance vous priver de la joie simple de l'exploration, des rencontres et des moments de détente partagés avec vos compagnons d'armes.
+
+**Liberté et Équilibre :**
+
+Chacun est libre de jouer à son rythme, selon ses envies et ses disponibilités. L'Écho de Lyssa encourage la diversité et le respect des choix de chacun. Que votre aventure soit source d'épanouissement et de joie, sans jamais devenir une contrainte ou une source de stress.
+
 ## Lois du Sanctuaire et des Royaumes:
 
 En rejoignant notre guilde, vous vous engagez à respecter les lois sacrées du Sanctuaire (Discord) et celles qui régissent les terres de Throne and Liberty. Consultez les parchemins anciens pour connaître les détails de ces lois:
