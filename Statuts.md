@@ -142,7 +142,7 @@ En offrant un Boost au Sanctuaire, vous témoignez de votre dévouement à l'Éc
 
 # Appel aux armes
 
-> *Là où l'aventure appelle et les héros s'élèvent, résonne l'Écho de Lyssa, guilde d'aventuriers unis par la soif d'exploration et la force de la camaraderie. Guidés par la déesse de la dualité, nous bravons les défis les plus ardus, non pour la gloire éphémère des classements, mais pour la satisfaction de triompher ensemble, dans un esprit de discipline et de liberté. Nos lames s'abreuvent du sang des monstres, nos sorts percent les ténèbres, et nos cœurs résonnent à l'unisson face à l'adversité.*
+> *Là où l'aventure appelle et les héros s'élèvent, résonne l'Écho de Lyssa, guilde d'aventuriers unis par la soif d'exploration et la force de la camaraderie. Guidés par la déesse de la dualité, nous bravons les défis les plus ardus, non pour la gloire éphémère des classements, mais pour la satisfaction de triompher ensemble, dans un esprit de discipline et de liberté; Nos lames s'abreuvent du sang des monstres, nos sorts percent les ténèbres, et nos cœurs résonnent à l'unisson face à l'adversité.*
 
 ## Ce que l'Écho de Lyssa offre:
 
