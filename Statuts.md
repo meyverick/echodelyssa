@@ -76,7 +76,7 @@ Nourrissons ensemble le feu sacré, dans un esprit de collaboration et de partag
 
 # L'Unicité du Héros au sein de l'Écho de Lyssa
 
-Chaque membre de l'Écho de Lyssa est une étoile unique dans la constellation de notre guilde. Ainsi, afin de préserver l'équilibre et l'harmonie de notre communauté, un seul personnage par joueur pourra rejoindre nos rangs et  porter fièrement nos couleurs.
+Chaque membre de l'Écho de Lyssa est une étoile unique dans la constellation de notre guilde. Ainsi, afin de préserver l'équilibre et l'harmonie de notre communauté, un seul personnage par joueur pourra rejoindre nos rangs et porter fièrement nos couleurs.
 
 Cette règle vise à favoriser une plus grande implication de chaque membre et à renforcer les liens qui nous unissent. En concentrant votre énergie et votre dévouement sur un seul héros, vous contribuerez pleinement à la prospérité de l'Écho de Lyssa et à la réalisation de notre destinée commune.
 
@@ -145,7 +145,7 @@ En offrant un Boost au Sanctuaire, vous témoignez de votre dévouement à l'Éc
 
 ## Ce que l'Écho de Lyssa offre:
 
-* **Un havre de camaraderie où règnent la bonne humeur et le respect mutuel.** Nous cultivons une ambiance chaleureuse où chacun trouve sa place.  
+* **Un havre de camaraderie où règnent la bonne humeur et le respect mutuel.** Nous cultivons une ambiance chaleureuse où chacun trouve sa place.
 * **Des expéditions régulières pour explorer les moindres recoins de Throne and Liberty.** Ensemble, nous braverons les donjons les plus obscurs, dévoilerons les secrets les mieux gardés et graverons nos noms sur les pages de l'histoire.
 * **Une présence régulière sur les champs de bataille, sans pression ni obligation.** La vie est une aventure, et nous savons que chaque guerrier a ses propres combats à mener. Trouvez l'équilibre entre vos responsabilités et votre passion pour Throne and Liberty. 
 * **Un Discord vibrant où résonnent les échos de nos aventures.** Stratégies, discussions animées et rires partagés forgent les liens qui nous unissent.
