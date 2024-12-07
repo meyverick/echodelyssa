@@ -56,6 +56,7 @@ Pour que les murmures de Lyssa résonnent avec clarté et harmonie au sein de no
 ## Serment du Sanctuaire:
 
 - **Entrée en ces Lieux**: Tout membre de l'Écho de Lyssa est tenu de franchir le seuil du Sanctuaire et d'y inscrire sa présence.
+
 - **Oreille Attentive**: Que chaque héros prête attention aux messages divins qui y sont partagés, afin de rester informé des annonces, des nouvelles et des événements de la guilde.
 
 ## Chants de Guerre et Murmures Stratégiques:
@@ -68,6 +69,8 @@ Pour que les murmures de Lyssa résonnent avec clarté et harmonie au sein de no
 En s'investissant activement au sein du Sanctuaire, et plus particulièrement lors des grands défis, chaque membre tisse des liens forts avec ses frères et sœurs d'armes, participant ainsi pleinement à la vie de notre communauté.
 
 Que les rires et les stratégies s'entremêlent dans la joie et la bonne humeur, car l'Écho de Lyssa résonne plus fort lorsque ses membres communient ensemble.
+
+[![https://discord.gg/Tyy4sGwb2t](https://i.imgur.com/jAJgrUt.png 'https://discord.gg/Tyy4sGwb2t')](https://discord.gg/Tyy4sGwb2t)
 
 # La Flamme de l'Écho: Nourrir le Feu Sacré
 Tel un brasier ardent, l'Écho de Lyssa puise sa force dans la flamme de chaque membre. Conscients que le temps est une denrée précieuse, nous cherchons l'équilibre entre l'ardeur collective et la liberté individuelle.
